@@ -6,7 +6,7 @@ public class GitHubDemoClass {
 	
 		System.out.println("Initial Project output");
 		System.out.println("First commit - Test");
-
+		System.out.println("second commit - Test");
 	}
 
 }
